@@ -1,0 +1,3 @@
+version_control: git
+src_repo: https://pagure.io/im-chooser
+seperator: .
